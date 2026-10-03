@@ -1,0 +1,22 @@
+{
+  "Components@@folder-font-bold": true,
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
+  "Plugin@@Projects-bg-color": "Projects-bg-color-default",
+  "Plugin@@colorful-checkbox": false,
+  "Components@@CTA-BTN-enable": false,
+  "Components@@file-names-untrim": false,
+  "Components@@file-icon-remove": false,
+  "Components@@colorful-folder": true,
+  "Components@@tab-autohide": false,
+  "Components@@status-bar-autohide": false,
+  "Components@@Ribbon-autohide": false,
+  "Components@@nav-header-autohide": true,
+  "Components@@tab-title-bar-autohide": true,
+  "Components@@vault-profile-autohide": true,
+  "Editor@@line-hover-indicator": false,
+  "Editor@@border-focus-mode": false,
+  "Appearance-light@@accent-color-override-light": false,
+  "Plugin@@DB-table-full-width-off": true,
+  "Components@@outline-enhanced": false
+}
